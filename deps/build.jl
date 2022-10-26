@@ -3,7 +3,7 @@
 # const LKH_SRC_URL = "http://webhotel4.ruc.dk/~keld/research/LKH/$(LKH_VERSION).tgz"
 # const LKH_WIN_EXE_URL = "http://webhotel4.ruc.dk/~keld/research/LKH/LKH-2.exe"
 
-const LKH_VERSION = "LKH-3.0.6"
+const LKH_VERSION = "LKH-3.0.7"
 const LKH_SRC_URL = "http://webhotel4.ruc.dk/~keld/research/LKH-3/$(LKH_VERSION).tgz"
 const LKH_WIN_EXE_URL = "http://webhotel4.ruc.dk/~keld/research/LKH-3/LKH-3.exe"
 
